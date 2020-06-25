@@ -5,18 +5,15 @@
 </p>
 
 # Ely Batista
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Como programador, tenho muito a habilidade analítica e capacidade de trabalhar em equipe. Trabalhei muito tempo com a linguagem PHP, Javascript, HTML, SQL e por ser curioso aprendi algumas outras linguagens, como Delphi, Perl, C#,  quando precisava resolver algum problema específico. Hojé estudo mais Python pela simplicidade da linguagem e por ser uma linguagem que é muito usada na análise de dados, isso me ajuda muito no meu pensamento crítico e na habilidade de resolver problemas.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Minha formação é em Gestão da Tecnologia da Informação, com Pós-Graduação MBA em Gestão de Projetos e também uma Pós-Graduação em Ciência de Dados e Big Data Analytics. Todas três formações na Estácio. Também com vários cursos livres, como: Introdução a Ciência da Computação com Python 1 e Introdução a Ciência da Computação com Python 2 na USP; Estatística, na ESAB; Estatística Conceitos e Representações e Estatística Medidas de Posição e Dispersão, no Instituto Federal - RS.
+
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/elybjunior/)
 
 
 ## Projetos:
