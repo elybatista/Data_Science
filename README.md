@@ -20,11 +20,8 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+* **[Análise de Dados do Airbnb da Cidade do Rio de Janeiro]** (https://github.com/elybatista/Data_Science/blob/master/Analise_de_Dados_do_AirBnb.ipynb
 
 
 ---
