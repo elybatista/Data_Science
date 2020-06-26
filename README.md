@@ -16,7 +16,7 @@ Minha formação é em Gestão da Tecnologia da Informação, com Pós-Graduaç�
 
 ## Projetos:
 
-* [Análise de Dados do Airbnb da Cidade do Rio de Janeiro](https://github.com/elybatista/Data_Science/blob/master/Analise_de_Dados_do_AirBnb.ipynb)
+* [Análise de Dados do Airbnb da Cidade do Rio de Janeiro](https://bit.ly/3eCCEeT)
 
 
 ---
