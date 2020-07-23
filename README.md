@@ -17,6 +17,7 @@ Minha formação é em Gestão da Tecnologia da Informação, com Pós-Graduaç�
 ## Projetos:
 
 * [Análise de Dados do Airbnb da Cidade do Rio de Janeiro](https://bit.ly/3eCCEeT)
+* [Análise da Violência no Rio de Janeiro](https://bit.ly/3hvexjn)
 
 
 ---
