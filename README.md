@@ -18,6 +18,7 @@ Minha formação é em Gestão da Tecnologia da Informação, com Pós-Graduaç�
 
 * [Análise de Dados do Airbnb da Cidade do Rio de Janeiro](https://bit.ly/3eCCEeT)
 * [Análise da Violência no Rio de Janeiro](https://bit.ly/3hvexjn)
+* [Panorama do Covid-19 no Brasil](https://bit.ly/2HjKIFQ)
 
 
 ---
