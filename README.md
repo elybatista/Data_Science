@@ -20,7 +20,7 @@ Minha formação é em Gestão da Tecnologia da Informação, com Pós-Graduaç�
 * [Análise da Violência no Rio de Janeiro](https://bit.ly/3hvexjn)
 * [Panorama do Covid-19 no Brasil](https://bit.ly/2HjKIFQ)
 * [Detecção de Fraude em Cartões de Crédito](https://bit.ly/3yS5Zf3)
-
+* [Startups Unicórnios](https://bit.ly/3YpIng1)
 ---
 
 
